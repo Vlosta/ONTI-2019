@@ -1,0 +1,15 @@
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\bin\Debug\Biblioteca.mdf
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\bin\Debug\Biblioteca_log.ldf
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\bin\Debug\ONTI2019.exe.config
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\bin\Debug\ONTI2019.exe
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\bin\Debug\ONTI2019.pdb
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.csproj.AssemblyReference.cache
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.Form1.resources
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.Properties.Resources.resources
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.csproj.GenerateResource.cache
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.csproj.CoreCompileInputs.cache
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.exe
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.pdb
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.LogareBiblioteca.resources
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.BibliotecarBiblioteca.resources
+G:\C# Rezolvari\ONTI 2019\ONTI2019\ONTI2019\obj\Debug\ONTI2019.Form2.resources
